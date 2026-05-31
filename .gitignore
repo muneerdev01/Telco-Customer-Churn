@@ -6,6 +6,7 @@ __pycache__/
 venv/
 env/
 data/raw/*.csv
+data/processed/*.csv
 !.gitkeep
 .DS_Store
 *.log
